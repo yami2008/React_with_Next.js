@@ -1,0 +1,14 @@
+.main {
+    text-align: center;
+    padding: 2rem;
+}
+
+.title {
+    font-size: 2.5rem;
+    color: #333;
+}
+
+.description {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+}
